@@ -1,2 +1,2 @@
 # myportfolio
-My portfolio
+This is my computer science portfolio
